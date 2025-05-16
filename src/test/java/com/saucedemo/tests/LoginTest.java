@@ -29,7 +29,6 @@ public class LoginTest {
         }
     }
 
-
     @Test(dataProvider = "excelLoginData", dataProviderClass = ExcelDataProvider.class)
     public void testLogin(String username, String password, boolean shouldLogin, String expectedError) {
         loginPage.open();

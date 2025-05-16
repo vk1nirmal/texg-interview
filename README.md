@@ -8,6 +8,7 @@
 2. Test scripts are written in LoginTest file
 3. Created Utilities class for Excel, Reporting and Elements 
 4. Test Data and TestNG Runner files created under resourcess
+5. Extent is report is used for reporting and will be available in test-output path
 
 ## This framework currently tests 6 Posibble test scenarios for a Login Page
 
